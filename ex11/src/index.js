@@ -25,11 +25,6 @@ function switchCase(letter) {
     // Write code above this line
     return animals;
 }
-switchCase("a");
-switchCase("b");
-switchCase("c");
-switchCase("d");
-switchCase("4");
 
 console.log(switchCase("a"));
 console.log(switchCase("b"));
